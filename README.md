@@ -7,3 +7,5 @@ In terminal, type:
 2. python manage.py migrate
 
 3. python manage.py runserver
+
+4.test text
